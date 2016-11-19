@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rain2">
+
+    <Button
+        android:id="@+id/reportFloodButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:onClick="reportClick"
+        android:text="@string/rapporter_une_inondation"
+        android:textColor="#2d15e9"
+        android:textSize="22sp"
+        android:layout_centerVertical="true" />
+
+    <Button
+        android:id="@+id/floodMapButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="floodMapClick"
+        android:text="@string/alerte_inondation"
+        android:textColor="#2d15e9"
+        android:textSize="22sp"
+        android:layout_below="@+id/reportFloodButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="30dp" />
+
+</RelativeLayout>

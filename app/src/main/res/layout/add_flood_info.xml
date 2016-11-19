@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayoutAddLocation">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/addFloodInfoToolbar"
+                android:minHeight="?attr/actionBarSize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:titleTextColor="@android:color/white"
+                android:background="?attr/colorPrimary"
+                android:onClick="returnAddLocation"
+                android:longClickable="true">
+            </android.support.v7.widget.Toolbar>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Flood Depth (metre)"
+                android:id="@+id/depthButton"
+                android:background="#505050"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:onClick="depthButtonClick" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/depthTextView"
+                android:layout_gravity="center_horizontal"
+                android:textSize="25sp"
+                android:hint="0 metre"
+                android:layout_marginLeft="6dp"
+                android:textColor="#282828"
+                android:textAlignment="center"
+                android:background="#e6e6e6e6" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Flood Duration"
+                android:id="@+id/durationButton"
+                android:background="#505050"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:onClick="durationButtonClick" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/durationTextView"
+                android:layout_gravity="center_horizontal"
+                android:textSize="25sp"
+                android:hint="0 heure"
+                android:layout_marginLeft="6dp"
+                android:textColor="#282828"
+                android:textAlignment="center"
+                android:background="#e6e6e6e6" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Flooded Assets"
+                android:id="@+id/damageButton"
+                android:background="@color/accent_material_light"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:onClick="damageButtonClick" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/damageTextView"
+                android:layout_gravity="center_horizontal"
+                android:textSize="18sp"
+                android:hint="House"
+                android:layout_marginLeft="6dp"
+                android:textColor="#282828"
+                android:textAlignment="center"
+                android:background="#e6e6e6e6" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Assets Quantity"
+                android:id="@+id/quantityButton"
+                android:background="@color/accent_material_light"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:onClick="quantityButtonClick" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/quantityTextView"
+                android:layout_gravity="center_horizontal"
+                android:textSize="25sp"
+                android:hint="2"
+                android:layout_marginLeft="6dp"
+                android:textColor="#282828"
+                android:textAlignment="center"
+                android:background="#e6e6e6e6" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Estimated Damage Cost (fcfa)"
+                android:id="@+id/costButton"
+                android:background="@color/accent_material_light"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:clickable="false"
+                android:onClick="costButtonClick" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/costTextView"
+                android:layout_gravity="center_horizontal"
+                android:textSize="25sp"
+                android:hint="100000"
+                android:layout_marginLeft="6dp"
+                android:textColor="#282828"
+                android:textAlignment="center"
+                android:background="#e6e6e6e6" />
+
+
+
+            <Button
+                android:layout_width="257dp"
+                android:layout_height="wrap_content"
+                android:text="@string/envoyer"
+                android:id="@+id/sendFloodInfo"
+                android:background="#cb6f0808"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:onClick="sendFloodInfoButtonClick"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+
+

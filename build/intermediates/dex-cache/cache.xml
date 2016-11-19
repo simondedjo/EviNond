@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.7/jars/libs/jcifs-1.3.17.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60e3805e7bcfe96bf1f1907b821d251cc9d789ec">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/jcifs-1.3.17_5dd53b5a7029d1464800fa6065890a96d0b7fd0a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7257468ba8db50fb4b4b91d4a564c87eceb89f07">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.esri.arcgis.android-arcgis-android-10.2.7_e9817a6433fc77fde11ace3ba4adb07a8ff4f453/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ceaf9ea1dbe1c67901cbee92d0466f98fc4b5910">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_148c5d87da5d236787fcb4d59d3d237db894c018/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_1fb87b9b752a3be093f9e8416658173a42ac3501/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_5629ce65a77262cf4d845801f81881c17db2a63f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.7/jars/libs/jackson-core-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="75ac72d19377a95225217cb4fdfa1290f3c81145">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-1.9.5_765393e40de50a267eb88cd104239bf47d32b80a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_b06e67d1734c163ffe28fcbb4b58318bac7ed38d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c307ebd7f977a791db0229ed84927839f3bac644">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e2e20c44cccfa1076e46397787f322aa3533d28f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_6c203618ee01d277e6c024079fd5b9a024e5fecc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d63db493930b6aecf367562d2c051d728a865409/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_9f9763f991b5e8062a0aecb6beccf977d1513802/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.7/jars/libs/arcgis-android-api.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0bb64910fdd2d390b1edb691b1afd2ba5ccd81c">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/arcgis-android-api_df901d71cf38204d77c184cdca28786e4f543ccc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d4ff7cf90d53e991bd79481ce2b640a9c4b93e89/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_4edd6e330f178c95fe9a30e5cad8ecebdaa559cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.7/jars/libs/arcgis-android-app-toolkit.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b5c0557f6e89c284472298df599e34480e0aa946">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/arcgis-android-app-toolkit_407a5cc84c6dd0807094300899189fc0db37e846/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_31b69a7883267f3d560caf06d22c5bcfb98a488c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.7/jars/libs/jackson-mapper-1.9.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbb48e87fa5e9107c17aaa0616f724d785a4d71">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-mapper-1.9.5_0f661f4068b1f8f0ce4ab32a6da19843c5b5acd3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/dedjo/Desktop/FloodProject/AndroidApps/EviNond0.5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_5ca2dd05daa15830efde8df514171a3fc52d4485/classes.dex" />
+    </item>
+
+</items>

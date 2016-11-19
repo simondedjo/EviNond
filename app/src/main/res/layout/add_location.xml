@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linearLayoutAddLocation"
+    android:background="#8d8d8d">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/addLocationToolbar"
+            android:minHeight="?attr/actionBarSize"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:titleTextColor="@android:color/white"
+            android:background="?attr/colorPrimary"
+            android:onClick="returnReportFlood"
+            android:longClickable="true">
+        </android.support.v7.widget.Toolbar>
+
+        // Add MapView object and basemap
+
+        <com.esri.android.map.MapView
+            android:id="@+id/map1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            mapoptions.MapType="Hybrid"
+            mapoptions.center="5.375321, -3.986277"
+            mapoptions.ZoomLevel="15"
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=">> Add flood details"
+            android:id="@+id/addFloodInfoButton"
+            android:background="#cb6f0808"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:onClick="addFloodInfoButtonClick"
+            android:layout_marginBottom="5dp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
